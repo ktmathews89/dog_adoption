@@ -75,6 +75,8 @@ h2 {
 }
 
 .pups-container {
+    width: 900px;
+    margin: 0 10px;
     display: flex;
     justify-content: space-around;
     align-items: flex-start;
