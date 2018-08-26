@@ -74,6 +74,10 @@ h2 {
     font-weight: 700;
 }
 
+section h2 {
+    text-align: center;
+}
+
 .pups-container {
     width: 900px;
     margin: 0 10px;
